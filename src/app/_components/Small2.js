@@ -5,7 +5,9 @@ export const Small2 = () => {
         Our Working Process
       </div>
       <div className="text-[18px] w-[580px]">
-        Step-by-Step Guide to Achieving <p /> Your Business Goals
+        Step-by-Step Guide to Achieving
+        <br />
+        Your Business Goals
       </div>
     </div>
   );

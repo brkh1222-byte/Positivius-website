@@ -5,8 +5,9 @@ export const Small = () => {
         Case Studies
       </div>
       <div className="text-[18px] w-[580px]">
-        Explore Real-Life Examples of Our Proven Digital Marketing <p /> Success
-        through Our Case Studies
+        Explore Real-Life Examples of Our Proven Digital Marketing
+        <br />
+        Success through Our Case Studies
       </div>
     </div>
   );

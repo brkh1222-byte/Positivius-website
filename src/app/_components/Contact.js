@@ -40,8 +40,9 @@ export const Contact = () => {
                   Phone: 555-567-8901
                 </p>
                 <p className="text-[18px]-400 text-white">
-                  Address: 1234 Main St <p /> Moonstone City, Stardust State
-                  12345
+                  Address: 1234 Main St
+                  <br />
+                  Moonstone City, Stardust State 12345
                 </p>
               </div>
             </div>

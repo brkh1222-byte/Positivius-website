@@ -5,7 +5,8 @@ export const Small4 = () => {
         Testimonials
       </div>
       <div className="text-[18px] w-[580px]">
-        Hear from Our Satisfied Clients: Read Our Testimonials <p />
+        Hear from Our Satisfied Clients: Read Our Testimonials
+        <br />
         to Learn More about Our Digital Marketing Services
       </div>
     </div>

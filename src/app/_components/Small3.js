@@ -5,7 +5,8 @@ export const Small3 = () => {
         Team
       </div>
       <div className="text-[18px] w-[580px]">
-        Meet the skilled and experienced team behind our <p />
+        Meet the skilled and experienced team behind our
+        <br />
         successful digital marketing strategies
       </div>
     </div>
