@@ -1,4 +1,4 @@
-const Home = () => {
+export default function Home() {
   return (
     <div className="w-screen px-25">
       <img src="/logo.png" />
@@ -12,4 +12,4 @@ const Home = () => {
       </div>
     </div>
   );
-};
+}
